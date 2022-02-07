@@ -1,0 +1,6 @@
+io.ionic.starter:mipmap/icon = 0x7f020000
+io.ionic.starter:string/launcher_name = 0x7f030002
+io.ionic.starter:string/app_name = 0x7f030001
+io.ionic.starter:xml/config = 0x7f040000
+io.ionic.starter:string/activity_name = 0x7f030000
+io.ionic.starter:drawable/screen = 0x7f010000
