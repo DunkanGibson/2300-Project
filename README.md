@@ -1,4 +1,4 @@
-# CITC-2300 PROJECT TEAM 3 - BETTER THAN ALL THE OTHER TEAMS
+# CITC-2300 PROJECT TEAM 3 - Alpha Team
 This repository is the workspace for the CITC app for RSCC
 
 ## Reminder
@@ -19,7 +19,7 @@ If your app is not running using the VPS IP address, contact Mike to get the ser
 ## Code changes that need to be explained in more detail
 ```javascript
 
-# Original
+#Original
 
 task cdvPrintProps << {
     println('cdvCompileSdkVersion=' + cdvCompileSdkVersion)
@@ -37,7 +37,7 @@ task cdvPrintProps << {
     }   
 }
 
-# Changed to debug
+#Changed-to-debug
 
 task cdvPrintProps {
 doLast {
