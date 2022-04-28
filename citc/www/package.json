@@ -13,7 +13,7 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
     "gulp-util": "^2.2.14",
-    "sass": "^1.49.9",
+    "sass": "^1.50.0",
     "shelljs": "^0.3.0"
   },
   "cordovaPlugins": [
